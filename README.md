@@ -1,1 +1,2 @@
-<img src="https://img.shields.io/badge/nodejs#5FA04E?style=for-the-badge&logo=nodejs&logoColor=white">
+node.js 생활코딩
+💻 2024-07-24 ~
